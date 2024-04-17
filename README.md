@@ -34,3 +34,7 @@ This project is primarily designed for:
 1. Transportation Authorities: Officials responsible for traffic management and road safety initiatives. The analysis results can aid in devising targeted strategies and interventions to reduce accident severity and improve overall road safety.
 2. Data Scientists and Analysts: Professionals keen on delving into car accident data to extract meaningful insights, identify patterns, and propose data-driven solutions to enhance road safety measures.
 3. Researchers: Academics and researchers in fields such as transportation engineering, public health, and urban planning. The dataset offers a valuable resource for conducting studies on accident trends, risk factors, and the effectiveness of safety interventions, contributing to scholarly research and knowledge in the domain.
+#### Contribution
+Contributions to improve data analysis methods or explore additional insights are welcome. Please submit a pull request with your proposed changes.
+#### License
+This project is licensed under the MIT License.
